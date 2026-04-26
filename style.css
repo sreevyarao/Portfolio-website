@@ -751,7 +751,7 @@ h3 {
 }
 
 .project-card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-6px);
 }
 
 .project-card img {
