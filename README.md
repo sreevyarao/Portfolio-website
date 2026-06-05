@@ -21,6 +21,9 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 - 🎯 Number Guessing Game (C)
 - 🎬 Movie Recommender System
 - 🌐 Personal Portfolio Website
+- 👩‍💻 Connectopia — Lead Manager CRM
+- 🏢 RMDT Consultancy Website
+
 
 📬 Contact
 - Email: sreevyarao@gmail.com
