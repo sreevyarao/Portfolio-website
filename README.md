@@ -3,7 +3,7 @@
 A modern and responsive personal portfolio website showcasing my projects, skills, and journey in web development and AI.
 
 🚀 Live Demo
-🔗 https://sreevyarao.github.io/Portfolio-website_FS_01/
+🔗 https://sreevyarao.github.io/Portfolio-website/
 
 🛠️ Tech Stack
 - HTML
